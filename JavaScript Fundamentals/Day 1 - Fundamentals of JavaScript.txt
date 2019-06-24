@@ -1,0 +1,12 @@
+Fundamentals of Javascript
+
+Vanilla Javascript - the most basic 
+Angular and React (Framework for bigger Projects)
+
+- DOM
+- AJAX (Asynchronous)
+- OOP 
+- ES5 to ES6 
+
+
+
